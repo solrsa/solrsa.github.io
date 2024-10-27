@@ -1,0 +1,17 @@
+body, html {
+    color: red;
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link, a:visited {
+    color: red;
+}
+
+a:hover, a:visited:hover {
+    color: orangered;
+}
+
+a:active, a:visited:active {
+    color: white;
+}
